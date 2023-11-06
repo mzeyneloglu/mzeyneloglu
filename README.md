@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzeyneloglu" alt="mzeyneloglu" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning , Deep Learning and AI**
+- 🌱 I’m currently learning **Machine Learning , Deep Learning , AI and Backend Developer**
 
 - 📫 How to reach me **mc.zeyneloglu@gmail.com**
 
